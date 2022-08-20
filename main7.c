@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include "calc.h"
 #include "showResult.h"
+
   
 void main(){
    double d1,d2,d3;
