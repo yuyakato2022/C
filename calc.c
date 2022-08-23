@@ -8,6 +8,7 @@ double avg(double l,double m){
 
 int ans;
  
+ 
 void add(int a,int b){
     ans = a + b;
 }
