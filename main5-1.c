@@ -10,4 +10,11 @@ void main(){
             printf("%d ",a[m][n]);
         }
     }
+    
+    for(m = 0; m < 5; m++){
+        for(n = 0; n < 5; n++){
+            a[m][n] = m+n;
+            printf("%d ",a[m][n]);
+        }
+    }
 }
